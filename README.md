@@ -4,7 +4,7 @@ Bank Management System is a Java-based desktop application developed using Java 
 **🏦 Bank Management System (Java + MySQL)**
 This project is a Bank Management System desktop application built using Java Swing for the user interface and MySQL for database management. The application demonstrates how real-world banking operations can be modeled using core Java concepts and JDBC.
 
-* Features*
+**Features**
 User Signup & Login authentication
 Secure database connectivity using JDBC
 Interactive GUI using Java Swing
