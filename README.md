@@ -18,11 +18,9 @@ JDBC (MySQL Connector/J)
 IntelliJ IDEA
 Git & GitHub
 
-**Purpose**
+*Purpose*
 This project is created for learning and academic purposes to understand:
 Java GUI development
 Database connectivity (JDBC)
-
 Project structuring in Java
-
 Real-world application flow
